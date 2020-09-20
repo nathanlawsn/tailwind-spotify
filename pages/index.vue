@@ -22,7 +22,7 @@
             </a>
           </li>
         </ul>
-        <div class="overflow-y-auto px-5 mt-2">
+        <div class="overflow-y-auto px-5 mt-2 pb-4">
           <h3 class="uppercase tracking-widest text-gray-500 font-normal text-xs">Your Library</h3>
           <ul class="leading-loose">
             <li class="truncate"><a href="#" class="hover:text-white">Made For You</a></li>
@@ -32,8 +32,22 @@
             <li class="truncate"><a href="#" class="hover:text-white">Artists</a></li>
             <li class="truncate"><a href="#" class="hover:text-white">Podcasts</a></li>
           </ul>
-          <h3 class="uppercase tracking-widest text-gray-500 font-normal text-xs">Playlists</h3>
+          <h3 class="uppercase tracking-widest text-gray-500 font-normal text-xs mt-6">Playlists</h3>
           <ul class="leading-loose">
+            <li class="truncate"><a href="#" class="hover:text-white">Nathan's Tunes</a></li>
+            <li class="truncate"><a href="#" class="hover:text-white">Land Digital Jukebox</a></li>
+            <li class="truncate"><a href="#" class="hover:text-white">Gym #BEASTMode</a></li>
+            <li class="truncate"><a href="#" class="hover:text-white">90's Hip-Hop Classics</a></li>
+            <li class="truncate"><a href="#" class="hover:text-white">TGIF</a></li>
+            <li class="truncate"><a href="#" class="hover:text-white">Dance Throwback</a></li>
+            <li class="truncate"><a href="#" class="hover:text-white">Discover Weekly</a></li>
+            <li class="truncate"><a href="#" class="hover:text-white">Nathan's Tunes</a></li>
+            <li class="truncate"><a href="#" class="hover:text-white">Land Digital Jukebox</a></li>
+            <li class="truncate"><a href="#" class="hover:text-white">Gym #BEASTMode</a></li>
+            <li class="truncate"><a href="#" class="hover:text-white">90's Hip-Hop Classics</a></li>
+            <li class="truncate"><a href="#" class="hover:text-white">TGIF</a></li>
+            <li class="truncate"><a href="#" class="hover:text-white">Dance Throwback</a></li>
+            <li class="truncate"><a href="#" class="hover:text-white">Discover Weekly</a></li>
             <li class="truncate"><a href="#" class="hover:text-white">Nathan's Tunes</a></li>
             <li class="truncate"><a href="#" class="hover:text-white">Land Digital Jukebox</a></li>
             <li class="truncate"><a href="#" class="hover:text-white">Gym #BEASTMode</a></li>
@@ -43,14 +57,77 @@
             <li class="truncate"><a href="#" class="hover:text-white">Discover Weekly</a></li>
           </ul>
         </div>
-        <div>three</div>
+        <div class="border-t border-gray-800 h-16 px-4 py-2 flex items-center group">
+          <svg class="fill-current text-gray-600 group-hover:text-white" xmlns="http://www.w3.org/2000/svg" width="24" height="24"><path d="M12 2c5.514 0 10 4.486 10 10s-4.486 10-10 10S2 17.514 2 12 6.486 2 12 2zm0-2C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm6 13h-5v5h-2v-5H6v-2h5V6h2v5h5v2z"/></svg>
+          <a class="font-normal text-gray-500 ml-2 group-hover:text-white" href="#">New Playlist</a>
+        </div>
       </div>
-      <div class="content-area bg-gray-800-spotify flex-1 overflow-y-auto">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi sed, voluptatum itaque cumque optio sunt vel provident inventore quis pariatur, animi mollitia. At aut doloribus architecto, minus facilis officiis dolores! Dolore, quae fuga! Soluta optio ab qui ea dicta unde autem alias labore exercitationem suscipit neque modi maxime quisquam non a, magnam eum adipisci aliquid, cumque tenetur. Natus vitae quasi corrupti voluptate tempora atque aliquid velit aspernatur, autem distinctio labore hic ad necessitatibus et enim maiores voluptatibus quas quam odit obcaecati doloremque consequuntur possimus dolores suscipit! Iure optio dolor corrupti sapiente perferendis quos, ducimus officiis molestias exercitationem hic dicta earum, aut nostrum iusto voluptate et nesciunt natus nemo itaque. Quae, nesciunt distinctio repellat earum doloribus delectus ab maiores deleniti recusandae culpa quos porro eum voluptatum fugit, beatae ea blanditiis rem vel natus. Quas minima cumque eius, voluptatum quaerat ipsam. Doloribus, impedit molestias. Dolore itaque, eos quisquam saepe recusandae aspernatur, nostrum ea reprehenderit consequatur dolorem tenetur harum, amet nisi. Ipsa nisi perferendis vero, ut id omnis veritatis? At, autem tenetur adipisci omnis laboriosam magni sint minima molestias optio est ad dicta repellendus aliquid itaque maiores alias impedit libero vero in eligendi et ea praesentium, quis quibusdam. Sunt, sint magnam. Consequuntur molestias excepturi quisquam commodi autem reiciendis culpa alias eaque laudantium nobis quo cupiditate neque dolore doloribus sequi itaque atque inventore debitis beatae repellendus, fuga iusto, libero voluptates ut. Labore doloribus laboriosam pariatur similique ad. Eligendi, tenetur eveniet. Ab reiciendis maiores odit ipsa labore, aspernatur incidunt ipsum eveniet vitae blanditiis esse repudiandae quos debitis hic molestias facere quis. Repudiandae perspiciatis veniam sunt enim quasi aut, qui esse nemo hic autem odio corrupti ullam quae soluta, rerum voluptatum a iure expedita voluptate nam? Dolore a earum labore maiores dolores est ab consequatur atque recusandae, doloremque accusamus nobis unde ex. Ratione fuga, repellat maxime nostrum magni maiores iusto quaerat eaque eos voluptatum dolorum laboriosam eius itaque saepe at dolorem modi nemo facere expedita possimus illo velit similique? Delectus repellendus quae, possimus eos maiores esse? Minima quaerat sequi, ipsa optio quos assumenda dicta eius quibusdam earum dolores harum a repellendus. Ratione vel ducimus voluptates, fuga molestiae similique explicabo inventore dolorum blanditiis error, repudiandae quis tenetur cumque, saepe quisquam maiores quibusdam in repellendus earum iste quo ipsa. Non doloribus eum, fugit temporibus similique nesciunt autem laboriosam quis, obcaecati ut reprehenderit? Nesciunt aspernatur provident distinctio culpa commodi quae doloremque enim amet, nam repellendus officiis sequi? Explicabo adipisci libero in perspiciatis, reiciendis exercitationem. Excepturi, delectus soluta similique magni laudantium rem totam, sunt inventore saepe, voluptatum fuga earum? Nulla placeat, non aut molestias eius officia quasi quo laboriosam rerum omnis quam et possimus odit at expedita, recusandae quos rem harum delectus nam architecto. Neque voluptates aliquid alias delectus facilis ipsa sit nobis, blanditiis architecto in, magni, quis aut magnam deleniti maiores eius harum nulla? Quae possimus, dolore neque culpa adipisci commodi omnis ad velit voluptates odio itaque in, quibusdam iure? Dolore officiis veritatis, ratione magni molestias temporibus iure nesciunt voluptas, vel culpa perspiciatis asperiores voluptates perferendis at maiores quasi eum ipsum quibusdam id omnis voluptatum facere eius? Excepturi reprehenderit numquam vero et similique quaerat mollitia eaque necessitatibus accusantium veniam, doloribus fugit harum cumque. Iusto esse accusantium ex non nisi velit quae, sit asperiores iure aut recusandae eos vero eum eius eaque eligendi ipsum porro molestias, odit perspiciatis reiciendis blanditiis excepturi. Distinctio quae doloremque vel delectus temporibus reprehenderit ex unde itaque sed blanditiis inventore odio aliquid, provident debitis animi placeat amet sequi illo nisi quam. Quidem perferendis hic ab itaque dolores aspernatur explicabo a unde. Distinctio, quia labore? Neque dolor cumque architecto excepturi! Cupiditate temporibus ducimus corporis fugiat cumque id, illum ab laboriosam sed totam voluptatum harum dicta ut assumenda velit cum nemo dignissimos? Totam unde eum neque modi quam. Rem illum architecto soluta dignissimos voluptatibus qui eum suscipit amet! Dolore eum, illum officiis tenetur eveniet dicta explicabo dolorum aliquam accusamus ea autem aperiam magni repudiandae libero, praesentium, reiciendis corporis quisquam maiores sunt voluptate quibusdam minus cumque quia doloremque. Placeat, neque, sequi nulla beatae animi ipsum cupiditate, libero vel cumque minus consectetur eveniet quidem non facere laboriosam. Quod nam eveniet quasi fuga modi molestias neque consectetur placeat nulla. Quisquam necessitatibus quasi voluptatibus at distinctio ad eos laboriosam cum consectetur libero similique, reiciendis nemo iste doloremque nobis doloribus soluta neque vitae reprehenderit aliquid non odio ducimus natus. Sapiente illum, fuga dolores provident, commodi natus expedita autem animi eius exercitationem culpa. Aspernatur minima aperiam at doloremque itaque molestiae ratione quo est unde maxime eius, expedita nesciunt nobis accusantium in voluptatem, quasi reiciendis ad, ipsum eos architecto fugit illum necessitatibus esse? Quam provident labore nostrum? Temporibus error, perferendis veritatis dolor distinctio quis voluptas aut quibusdam adipisci, eum consectetur. Sapiente rem at quia voluptas, culpa soluta eos quod, officia debitis nostrum eligendi. Modi, cumque. Accusamus, odio neque iure ut magni molestiae, recusandae consequuntur incidunt magnam modi optio est eius atque saepe quam? Expedita, dolor pariatur ullam inventore distinctio illum aut eos est quos fuga, deleniti molestias perspiciatis iure culpa, modi dolorum? At blanditiis eum ullam beatae unde dignissimos reprehenderit, officia tenetur possimus itaque alias magni, velit reiciendis labore cumque iusto ipsam dolores. Vitae impedit numquam nobis distinctio mollitia officiis, iusto illum nemo cum quo architecto dicta amet praesentium deleniti. Incidunt, quia accusantium quam illo at reiciendis mollitia perferendis sint corrupti libero vero dicta vitae nisi ullam. Tempore, nesciunt! Eveniet error repellat quisquam facere minus voluptatum deserunt nulla voluptates rem pariatur consequatur nesciunt nemo exercitationem iure iusto obcaecati quibusdam aspernatur in maxime, quidem quod sed, incidunt earum laborum! Saepe tempore autem, obcaecati nam temporibus expedita eum vitae, natus officiis voluptate, cupiditate delectus commodi fugit? Excepturi, mollitia! Beatae veritatis optio nam cumque possimus est odio, neque officiis excepturi hic repellendus pariatur! Doloribus nisi quas vitae non at perferendis, dolorem unde deleniti aliquid quis voluptatum, illum placeat delectus laborum esse nemo vel facere animi minima consectetur! Ipsum recusandae eius eaque corporis corrupti maxime fugiat quia quas nemo earum obcaecati possimus dolores autem saepe, vel repellat dolorum alias amet, deserunt voluptatum quibusdam commodi. Hic expedita quia corporis vitae?
+      <div class="content-area bg-gray-800-spotify flex-1 flex flex-col">
+        <div class="top-bar flex items-center justify-between px-4 py-2">
+          <div class="flex items-center">
+            <div>Previous</div>
+            <div>Next</div>
+            <div class="ml-4 relative">
+              <input type="text" placeholder="Search" class="bg-white text-gray-800 placeholder-gray-800 rounded-full px-3 pl-8 py-1">
+              <div class="absolute top-0"><svg class="fill-current text-gray-800 h-6 w-6 pt-1 pl-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path d="M23.809 21.646l-6.205-6.205a9.68 9.68 0 001.857-5.711C19.461 4.365 15.096 0 9.73 0 4.365 0 0 4.365 0 9.73c0 5.366 4.365 9.73 9.73 9.73a9.678 9.678 0 005.487-1.698L21.455 24l2.354-2.354zM2.854 9.73c0-3.792 3.085-6.877 6.877-6.877s6.877 3.085 6.877 6.877-3.085 6.877-6.877 6.877A6.884 6.884 0 012.854 9.73z"/></svg></div>
+            </div>
+          </div>
+          <div class="flex items-center">
+            User
+          </div>
+        </div>
+        <div class="overflow-y-auto">
+          <div class="container mx-auto px-4">
+            <h2 class="mt-24 text-5xl font-semibold text-white">Home</h2>
+            <div class="mt-12">
+              <h3 class="font-semibold text-xl border-b border-gray-900 pb-2">Recently played</h3>
+              <div class="flex items-center mt-4 -mx-4">
+                <div class="w-1/5 px-4">
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat, itaque laborum nam cumque explicabo aliquam sequi architecto quam tempora quidem.
+                </div>
+                <div class="w-1/5 px-4">
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat, itaque laborum nam cumque explicabo aliquam sequi architecto quam tempora quidem.
+                </div>
+                <div class="w-1/5 px-4">
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat, itaque laborum nam cumque explicabo aliquam sequi architecto quam tempora quidem.
+                </div>
+                <div class="w-1/5 px-4">
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat, itaque laborum nam cumque explicabo aliquam sequi architecto quam tempora quidem.
+                </div>
+                <div class="w-1/5 px-4">
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat, itaque laborum nam cumque explicabo aliquam sequi architecto quam tempora quidem.
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
-    <div class="bg-gray-700-spotify">
-      bottom
+    <div class="bg-gray-700-spotify flex-none h-22 px-5 flex items-center justify-between">
+      <div class="flex items-center">
+        <a href="#"><img src="/albumcover01.png" alt="Album Cover" class="w-14 h-14"></a>
+        <div class="ml-3">
+          <div><a href="#" class="hover:underline">Mr. Brightside</a></div>
+          <div><a href="#" class="text-xs text-gray-500 hover:underline hover:text-white">The Killers</a></div>
+        </div>
+      </div>
+      <div class="player-controls flex flex-col justify-center flex-grow mx-8">
+        <div class="flex justify-center">
+          <button>1</button>
+          <button>2</button>
+          <button>3</button>
+          <button>4</button>
+          <button>5</button>
+        </div>
+        <div class="max-w-full mt-3 flex items-center justify-center flex-grow">
+          <div class="text-xs text-gray-500">1:20</div>
+          <div class="bg-gray-500 rounded-lg w-full xl:w-200 h-1 mx-3"></div>
+          <div class="text-xs text-gray-500">3:43</div>
+        </div>
+      </div>
+      <div class="volume-controls">
+        volume
+      </div>
     </div>
   </div>
 </template>
