@@ -7,6 +7,10 @@
 module.exports = {
   theme: {
     extend: {
+      screens: {
+        'xxl': '1680px',
+        // => @media (min-width: 1680px) { ... }
+      },
       colors: {
         'gray-900-spotify': '#121212',
         'gray-800-spotify': '#181818',
